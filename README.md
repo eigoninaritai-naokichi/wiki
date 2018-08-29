@@ -22,6 +22,8 @@ explanation on how to use it.
 4. if you are satisfied with your changes, run ``mkdocs build`` to convert the repository into a working 
 website
 
+> **If you have not installed mkdocs, you have to do it. See** [**how to install**](https://www.mkdocs.org/#installation).
+
 ## How to translate the wiki
 
 1. Fork the repository
